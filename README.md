@@ -1,0 +1,2 @@
+# TMDCs_Predictor
+用于预测TMDCs能带结构的机器学习项目
